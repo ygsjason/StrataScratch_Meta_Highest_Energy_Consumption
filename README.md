@@ -1,0 +1,1 @@
+# StrataScratch_Meta_Highest_Energy_Consumption
